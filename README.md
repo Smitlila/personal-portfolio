@@ -1,5 +1,7 @@
 # Smit Lila – Portfolio
 
+Check it out here: https://smitlila.vercel.app/
+
 React + TypeScript + Vite single-page portfolio featuring projects, experience, and skills.
 
 ## Tech stack
